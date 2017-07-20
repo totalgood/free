@@ -3,17 +3,12 @@ free
 ====
 
 
-Add a short description here!
+Free yourself from captcha traps!
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+Uses pytesseract and custom neural nets to mimic human behavior at captcha prompts.
 
 
-Note
-====
-
-This project has been set up using PyScaffold 2.5.7. For details and usage
-information on PyScaffold see http://pyscaffold.readthedocs.org/.
